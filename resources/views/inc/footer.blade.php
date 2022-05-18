@@ -2,11 +2,6 @@
 	<div class="container container--footer">
 		<div class="footer__row">
 			<div class="footer__developer-information">
-				<picture class="logo logo--footer">
-					<a href="#">
-						<img class="lozad" data-src="../assets/img/wezom_logo.svg" alt="Logo" />
-					</a>
-				</picture>
 				<div class="logo__text">© 2020 Интернет-магазин</div>
 				<div class="developer-information__text">
 					<li class="developer-information__item">
@@ -109,7 +104,7 @@
 								</li class="info-col__item">
 								<li class="info-col__item"><a href="#">Ежедневно с 08:30-21:00 </a></li>
 								<li class="info-col__item">
-									<a href="mailto:info@wezom.com.ua">Email: <span class="white--text">info@wezom.com.ua</span></a>
+									<a href="mailto:info@wezom.com.ua">Email: <span class="white--text">info@zoobonus.com.ua</span></a>
 								</li>
 							</ul>
 						</div>
@@ -126,9 +121,6 @@
 						<picture>
 							<img class="lozad" data-src="../assets/img/Visa.webp" alt="payment_op" />
 						</picture>
-					</div>
-					<div class="dies__developer-about">
-						Разработано в <b><span class="white--text">WEZOM</span></b>
 					</div>
 				</div>
 			</div>

@@ -84,11 +84,6 @@
 						</div>
 					</div>
 					<div class="main-body__low">
-						<picture class="logo logo--header">
-							<a href="/">
-								<img src="../assets/img/wezom_logo.svg" alt="Logo" />
-							</a>
-						</picture>
 						<div class="main-body__nav">
 							<div class="main-body__nav-item nav-item--menu">
 								Товары по питомцам
